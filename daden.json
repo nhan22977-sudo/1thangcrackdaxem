@@ -1,4 +1,11 @@
-{"befd4303-c426-4492-8667-b2f1568afea3":{"time":"2026-08-20T13:10:28.644345600Z","hwid":"A5D97CDE1326-F1EFD16BA256","key":"_ebinooo","done":false},
+{
+  "befd4303-c426-4492-8667-b2f1568afea3": {
+    "time": "2026-08-20T13:10:28.644345600Z",
+    "hwid": "A5D97CDE1326-F1EFD16BA256",
+    "key": "_ebinooo",
+    "done": true,
+    "status": 2
+  },
   "2cd82d36-52e3-4a99-8a96-beebba2965d1": {
     "time": "2026-08-20T13:09:19.548331800Z",
     "hwid": "A5D97CDE1326-F1EFD16BA256",
