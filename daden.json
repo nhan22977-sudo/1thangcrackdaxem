@@ -1,1 +1,9 @@
-{"dc27a747-c74c-4562-8b8b-8ab19ff02194":{"time":"2026-08-21T14:35:39.119637400Z","hwid":"ZnYqQzZbQG5wM0VaABoHBXcCZWJwXTdKLQ==","key":"GFIBEAcQ","status":0,"done":false}}
+{
+  "dc27a747-c74c-4562-8b8b-8ab19ff02194": {
+    "time": "2026-08-21T14:35:39.119637400Z",
+    "hwid": "ZnYqQzZbQG5wM0VaABoHBXcCZWJwXTdKLQ==",
+    "key": "GFIBEAcQ",
+    "status": 3,
+    "done": true
+  }
+}
