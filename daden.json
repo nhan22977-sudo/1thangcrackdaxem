@@ -1,1 +1,9 @@
-{"cd603cfc-1fbb-4860-9dbc-2e1f8b73813b":{"time":"2026-08-21T12:14:04.597854800Z","hwid":"EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==","key":"OlwPBBFYSh4=","status":0,"done":false}}
+{
+  "cd603cfc-1fbb-4860-9dbc-2e1f8b73813b": {
+    "time": "2026-08-21T12:14:04.597854800Z",
+    "hwid": "EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==",
+    "key": "OlwPBBFYSh4=",
+    "status": 3,
+    "done": true
+  }
+}
