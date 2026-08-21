@@ -1,4 +1,11 @@
-{"8c8009ec-247d-4237-9bcf-7172dae56c01":{"time":"2026-08-21T13:34:20.937303300Z","hwid":"EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==","key":"OlwPBBFYSh4=","status":0,"done":false},
+{
+  "8c8009ec-247d-4237-9bcf-7172dae56c01": {
+    "time": "2026-08-21T13:34:20.937303300Z",
+    "hwid": "EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==",
+    "key": "OlwPBBFYSh4=",
+    "status": 3,
+    "done": true
+  },
   "eb6d760f-a4d9-4493-9bcb-4179c551a0e7": {
     "time": "2026-08-21T13:30:10.530061Z",
     "hwid": "EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==",
