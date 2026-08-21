@@ -1,1 +1,9 @@
-{"96f56705-ba80-4caf-b179-edb628f41ac2":{"time":"2026-08-21T15:21:04.066182300Z","hwid":"Y3BbMEBaQB5xMUNZABB3AwFzYm5xVUZLLw==","key":"OlwPAQE=","status":0,"done":false},"2351169c-2d23-4c9d-8948-51b6a207d7d2":{"time":"2026-08-21T15:18:15.111496300Z","hwid":"FwYoTUUqPGhwRkZeAGUDdXRyEGBxLUZHXw==","key":"CVYOHRwGF0I=","status":0,"done":false},"1f9bb69b-8fed-4772-8bc5-26f0c6d6b880":{"time":"2026-08-21T15:15:05.868427400Z","hwid":"FwYoTUUqPGhwRkZeAGUDdXRyEGBxLUZHXw==","key":"CVYOHRwGF0I=","status":0,"done":false}}
+{
+  "96f56705-ba80-4caf-b179-edb628f41ac2": {
+    "time": "2026-08-21T15:21:04.066182300Z",
+    "hwid": "Y3BbMEBaQB5xMUNZABB3AwFzYm5xVUZLLw==",
+    "key": "OlwPAQE=",
+    "status": 3,
+    "done": true
+  }
+}
