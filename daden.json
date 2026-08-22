@@ -1,1 +1,9 @@
-{"ad786e82-b774-43c1-9e28-5a6feabbb16e":{"time":"2026-08-22T06:33:53.271071500Z","hwid":"FwYoTUUqPGhwRkZeAGUDdXRyEGBxLUZHXw==","key":"CVYOHRwGF0I=","status":0,"done":false}}
+{
+  "ad786e82-b774-43c1-9e28-5a6feabbb16e": {
+    "time": "2026-08-22T06:33:53.271071500Z",
+    "hwid": "FwYoTUUqPGhwRkZeAGUDdXRyEGBxLUZHXw==",
+    "key": "CVYOHRwGF0I=",
+    "status": 3,
+    "done": true
+  }
+}
