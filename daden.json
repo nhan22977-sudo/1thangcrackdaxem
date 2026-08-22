@@ -1,1 +1,9 @@
-{"89c505d4-7d4c-4ad0-a0a4-6432d2813713":{"time":"2026-08-22T15:52:04.474749700Z","hwid":"ZnYqQzZbQG5wM0VaABoHBXcCZWJwXTdKLQ==","key":"GFIBEAcQ","status":0,"done":false}}
+{
+  "89c505d4-7d4c-4ad0-a0a4-6432d2813713": {
+    "time": "2026-08-22T15:52:04.474749700Z",
+    "hwid": "ZnYqQzZbQG5wM0VaABoHBXcCZWJwXTdKLQ==",
+    "key": "GFIBEAcQ",
+    "status": 3,
+    "done": true
+  }
+}
