@@ -1,1 +1,9 @@
-{"4b96b505-f163-4cbf-94ae-79a1c432d88e":{"time":"2026-08-22T18:05:41.096684900Z","hwid":"EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==","key":"OloAHRMHGVg2AA==","status":0,"done":false}}
+{
+  "4b96b505-f163-4cbf-94ae-79a1c432d88e": {
+    "time": "2026-08-22T18:05:41.096684900Z",
+    "hwid": "EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==",
+    "key": "OloAHRMHGVg2AA==",
+    "status": 3,
+    "done": true
+  }
+}
