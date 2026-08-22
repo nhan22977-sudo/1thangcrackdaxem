@@ -1,1 +1,9 @@
-{"21b28c77-1957-4537-bcbb-1d1d6bf12197":{"time":"2026-08-22T13:21:02.748550300Z","hwid":"Y3BbMEBaQB5xMUNZABB3AwFzYm5xVUZLLw==","key":"OlwPAQE=","status":0,"done":false}}
+{
+  "21b28c77-1957-4537-bcbb-1d1d6bf12197": {
+    "time": "2026-08-22T13:21:02.748550300Z",
+    "hwid": "Y3BbMEBaQB5xMUNZABB3AwFzYm5xVUZLLw==",
+    "key": "OlwPAQE=",
+    "status": 3,
+    "done": true
+  }
+}
