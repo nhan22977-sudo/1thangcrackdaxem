@@ -1,1 +1,9 @@
-{"555de491-feda-4707-afe6-d643660738ae":{"time":"2026-08-23T06:57:03.569068100Z","hwid":"bwdaNUAsOxoCQjFRABsAdAYDGGcDWTA0Ww==","key":"PkYVERwdEUg0ARwdchYLBwIC","status":0,"done":false}}
+{
+  "555de491-feda-4707-afe6-d643660738ae": {
+    "time": "2026-08-23T06:57:03.569068100Z",
+    "hwid": "bwdaNUAsOxoCQjFRABsAdAYDGGcDWTA0Ww==",
+    "key": "PkYVERwdEUg0ARwdchYLBwIC",
+    "status": 3,
+    "done": true
+  }
+}
