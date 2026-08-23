@@ -1,1 +1,9 @@
-{"adb1e675-38d3-41fc-90a8-cbe2299316f7":{"time":"2026-08-23T00:58:41.159070500Z","hwid":"EAdfNkpeQWt3TUxaABACBwcFZ2MHLUxFXQ==","key":"OFsNABEcF0MmEQ4SHxMDAW0DF2QLXA==","status":0,"done":false}}
+{
+  "adb1e675-38d3-41fc-90a8-cbe2299316f7": {
+    "time": "2026-08-23T00:58:41.159070500Z",
+    "hwid": "EAdfNkpeQWt3TUxaABACBwcFZ2MHLUxFXQ==",
+    "key": "OFsNABEcF0MmEQ4SHxMDAW0DF2QLXA==",
+    "status": 3,
+    "done": true
+  }
+}
