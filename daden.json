@@ -1,1 +1,9 @@
-{"eaa82b92-89df-4bc5-ad03-8db88430a3c0":{"time":"2026-08-23T15:02:48.195865639Z","hwid":"ZHZaN0JZSW93TUVfAGB3BAIEY2AEXUBCLA==","key":"eEcNGh4G","status":0,"done":false}}
+{
+  "eaa82b92-89df-4bc5-ad03-8db88430a3c0": {
+    "time": "2026-08-23T15:02:48.195865639Z",
+    "hwid": "ZHZaN0JZSW93TUVfAGB3BAIEY2AEXUBCLA==",
+    "key": "eEcNGh4G",
+    "status": 3,
+    "done": true
+  }
+}
