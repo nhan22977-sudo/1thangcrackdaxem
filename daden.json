@@ -1,1 +1,9 @@
-{"3a1cf670-2101-4ccd-ade7-90d23a9d6cc0":{"time":"2026-08-24T13:06:22.853508900Z","hwid":"bwdaNUAsOxoCQjFRABsAdAYDGGcDWTA0Ww==","key":"PkYVERwdEUg0ARwdchYLBwIC","status":0,"done":false}}
+{
+  "3a1cf670-2101-4ccd-ade7-90d23a9d6cc0": {
+    "time": "2026-08-24T13:06:22.853508900Z",
+    "hwid": "bwdaNUAsOxoCQjFRABsAdAYDGGcDWTA0Ww==",
+    "key": "PkYVERwdEUg0ARwdchYLBwIC",
+    "status": 3,
+    "done": true
+  }
+}
