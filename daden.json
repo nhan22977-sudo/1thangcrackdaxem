@@ -1,1 +1,9 @@
-{"75128b3a-d013-4232-a829-7cc557262552":{"time":"2026-08-25T08:22:05.075016300Z","hwid":"EAVdRjFdOhV4TU1bABoAAQVzZ2EEX0JBWA==","key":"MkYVGhUcDkE=","status":0,"done":false}}
+{
+  "75128b3a-d013-4232-a829-7cc557262552": {
+    "time": "2026-08-25T08:22:05.075016300Z",
+    "hwid": "EAVdRjFdOhV4TU1bABoAAQVzZ2EEX0JBWA==",
+    "key": "MkYVGhUcDkE=",
+    "status": 3,
+    "done": true
+  }
+}
