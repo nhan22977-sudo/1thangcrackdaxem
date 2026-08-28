@@ -1,1 +1,9 @@
-{"d67fc1c9-8916-478a-bece-b3df5adf5289":{"time":"2026-08-28T11:22:13.821690900Z","hwid":"EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==","key":"PVsNGhVbTxxhXUZB","status":0,"done":false}}
+{
+  "d67fc1c9-8916-478a-bece-b3df5adf5289": {
+    "time": "2026-08-28T11:22:13.821690900Z",
+    "hwid": "EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==",
+    "key": "PVsNGhVbTxxhXUZB",
+    "status": 2,
+    "done": true
+  }
+}
