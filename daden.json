@@ -1,1 +1,9 @@
-{"bade502b-b47a-42e7-ba32-adeaaa386618":{"time":"2026-08-29T15:07:03.239267300Z","hwid":"EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==","key":"JlsDGhUZCkJwTENZGg==","status":0,"done":false}}
+{
+  "bade502b-b47a-42e7-ba32-adeaaa386618": {
+    "time": "2026-08-29T15:07:03.239267300Z",
+    "hwid": "EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==",
+    "key": "JlsDGhUZCkJwTENZGg==",
+    "status": 3,
+    "done": true
+  }
+}
