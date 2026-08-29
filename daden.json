@@ -1,1 +1,9 @@
-{"63f0af3f-4e0d-4f0b-97c9-77fb5dab0f66":{"time":"2026-08-29T10:18:45.999132Z","hwid":"EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==","key":"JlsDGhUZCkJwTENZGg==","status":0,"done":false}}
+{
+  "63f0af3f-4e0d-4f0b-97c9-77fb5dab0f66": {
+    "time": "2026-08-29T10:18:45.999132Z",
+    "hwid": "EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==",
+    "key": "JlsDGhUZCkJwTENZGg==",
+    "status": 3,
+    "done": true
+  }
+}
