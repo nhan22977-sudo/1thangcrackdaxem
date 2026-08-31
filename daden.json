@@ -1,1 +1,9 @@
-{"00d7978e-0154-496d-af8d-4209ee382ff9":{"time":"2026-08-31T16:11:05.985565100Z","hwid":"ZnYqQzZbQG5wM0VaABoHBXcCZWJwXTdKLQ==","key":"GFIBEAcQ","status":0,"done":false}}
+{
+  "00d7978e-0154-496d-af8d-4209ee382ff9": {
+    "time": "2026-08-31T16:11:05.985565100Z",
+    "hwid": "ZnYqQzZbQG5wM0VaABoHBXcCZWJwXTdKLQ==",
+    "key": "GFIBEAcQ",
+    "status": 3,
+    "done": true
+  }
+}
