@@ -1,1 +1,9 @@
-{"2810573b-2117-43ea-aab7-cf43b1399129":{"time":"2026-09-02T14:00:09.005101400Z","hwid":"EAdfNkpeQWt3TUxaABACBwcFZ2MHLUxFXQ==","key":"OFsNABEcF0MmEQ4SHxMDAW0DF2QLXA==","status":0,"done":false}}
+{
+  "2810573b-2117-43ea-aab7-cf43b1399129": {
+    "time": "2026-09-02T14:00:09.005101400Z",
+    "hwid": "EAdfNkpeQWt3TUxaABACBwcFZ2MHLUxFXQ==",
+    "key": "OFsNABEcF0MmEQ4SHxMDAW0DF2QLXA==",
+    "status": 3,
+    "done": true
+  }
+}
