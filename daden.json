@@ -1,1 +1,9 @@
-{"deb7f40b-5f63-418b-baf4-20f43be80a2d":{"time":"2026-09-02T23:33:35.326333400Z","hwid":"FwAuQTNbSB53QkZfABoKBwF3ZW9yL00zXA==","key":"OlwPAQE=","status":0,"done":false}}
+{
+  "deb7f40b-5f63-418b-baf4-20f43be80a2d": {
+    "time": "2026-09-02T23:33:35.326333400Z",
+    "hwid": "FwAuQTNbSB53QkZfABoKBwF3ZW9yL00zXA==",
+    "key": "OlwPAQE=",
+    "status": 3,
+    "done": true
+  }
+}
