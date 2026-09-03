@@ -1,1 +1,9 @@
-{"40f134ad-6a10-433c-877f-a208d0d3523e":{"time":"2026-09-03T06:35:57.629156700Z","hwid":"FwYoTUUqPGhwRkZeAGUDdXRyEGBxLUZHXw==","key":"CVYOHRwGF0I=","status":0,"done":false}}
+{
+  "40f134ad-6a10-433c-877f-a208d0d3523e": {
+    "time": "2026-09-03T06:35:57.629156700Z",
+    "hwid": "FwYoTUUqPGhwRkZeAGUDdXRyEGBxLUZHXw==",
+    "key": "CVYOHRwGF0I=",
+    "status": 3,
+    "done": true
+  }
+}
