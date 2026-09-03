@@ -1,4 +1,11 @@
-{"65d9118c-59a8-4044-ab22-bbbb0dad8f23":{"time":"2026-09-03T04:14:50.341861400Z","hwid":"EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==","key":"IkEZGhVZSx10KkBYHxcB","status":0,"done":false},
+{
+  "65d9118c-59a8-4044-ab22-bbbb0dad8f23": {
+    "time": "2026-09-03T04:14:50.341861400Z",
+    "hwid": "EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==",
+    "key": "IkEZGhVZSx10KkBYHxcB",
+    "status": 1,
+    "done": true
+  },
   "69c4b3a8-b8d0-428c-bd8f-b87f1f534ee3": {
     "time": "2026-09-03T04:13:47.624585800Z",
     "hwid": "EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==",
@@ -11,13 +18,6 @@
     "hwid": "EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==",
     "key": "IkEZGhVZSx10KkBYHxcB",
     "status": 1,
-    "done": true
-  },
-  "c85ad151-ea8d-4412-b15f-75ca6469ce2f": {
-    "time": "2026-09-03T04:09:29.340369900Z",
-    "hwid": "FwAuQTNbSB53QkZfABoKBwF3ZW9yL00zXA==",
-    "key": "OlwPAQE=",
-    "status": 3,
     "done": true
   }
 }
