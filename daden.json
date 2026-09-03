@@ -1,1 +1,9 @@
-{"452a368b-650b-46f4-a935-ebdf4e4f4ab5":{"time":"2026-09-03T03:39:03.922534900Z","hwid":"ZnYqQzZbQG5wM0VaABoHBXcCZWJwXTdKLQ==","key":"GFIBEAcQ","status":0,"done":false}}
+{
+  "452a368b-650b-46f4-a935-ebdf4e4f4ab5": {
+    "time": "2026-09-03T03:39:03.922534900Z",
+    "hwid": "ZnYqQzZbQG5wM0VaABoHBXcCZWJwXTdKLQ==",
+    "key": "GFIBEAcQ",
+    "status": 3,
+    "done": true
+  }
+}
