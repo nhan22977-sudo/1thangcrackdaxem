@@ -1,1 +1,9 @@
-{"24310123-2c9f-4974-a2c2-cc9d1a1aa8b1":{"time":"2026-09-04T12:55:39.610519200Z","hwid":"EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==","key":"OlwPBBFYSh51QEI=","status":0,"done":false}}
+{
+  "24310123-2c9f-4974-a2c2-cc9d1a1aa8b1": {
+    "time": "2026-09-04T12:55:39.610519200Z",
+    "hwid": "EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==",
+    "key": "OlwPBBFYSh51QEI=",
+    "status": 3,
+    "done": true
+  }
+}
