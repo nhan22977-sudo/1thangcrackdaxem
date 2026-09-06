@@ -1,1 +1,9 @@
-{"601fcabf-376b-480a-aeef-cd8aacd29e08":{"time":"2026-09-06T00:52:41.583225200Z","hwid":"EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==","key":"OlwPBBFYSh51QEI=","status":0,"done":false}}
+{
+  "601fcabf-376b-480a-aeef-cd8aacd29e08": {
+    "time": "2026-09-06T00:52:41.583225200Z",
+    "hwid": "EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==",
+    "key": "OlwPBBFYSh51QEI=",
+    "status": 3,
+    "done": true
+  }
+}
