@@ -1,1 +1,9 @@
-{"42c90a29-42b5-4243-bad4-469a043ea1ee":{"time":"2026-09-07T06:41:40.595800900Z","hwid":"ZnYqQzZbQG5wM0VaABoHBXcCZWJwXTdKLQ==","key":"PVsZGhUFF0MmFhsGHxM=","status":0,"done":false}}
+{
+  "42c90a29-42b5-4243-bad4-469a043ea1ee": {
+    "time": "2026-09-07T06:41:40.595800900Z",
+    "hwid": "ZnYqQzZbQG5wM0VaABoHBXcCZWJwXTdKLQ==",
+    "key": "PVsZGhUFF0MmFhsGHxM=",
+    "status": 3,
+    "done": true
+  }
+}
