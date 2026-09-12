@@ -1,1 +1,9 @@
-{"8932ddab-5b88-464d-817f-d1852b1429b4":{"time":"2026-09-12T01:21:56.158602400Z","hwid":"EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==","key":"OlwPBBFYSh51QEI=","status":0,"done":false}}
+{
+  "8932ddab-5b88-464d-817f-d1852b1429b4": {
+    "time": "2026-09-12T01:21:56.158602400Z",
+    "hwid": "EHVVRTFdSB8DR0xaAGAGdHMCExMDWjA3Xg==",
+    "key": "OlwPBBFYSh51QEI=",
+    "status": 3,
+    "done": true
+  }
+}
