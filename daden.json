@@ -1,1 +1,9 @@
-{"bc1171cd-dfce-495e-b3a3-93213553c179":{"time":"2026-09-12T05:22:37.452672800Z","hwid":"FwAuQTNbSB53QkZfABoKBwF3ZW9yL00zXA==","key":"OlwPAQE=","status":0,"done":false}}
+{
+  "bc1171cd-dfce-495e-b3a3-93213553c179": {
+    "time": "2026-09-12T05:22:37.452672800Z",
+    "hwid": "FwAuQTNbSB53QkZfABoKBwF3ZW9yL00zXA==",
+    "key": "OlwPAQE=",
+    "status": 3,
+    "done": true
+  }
+}
