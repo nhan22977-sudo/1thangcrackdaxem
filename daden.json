@@ -1,4 +1,11 @@
-{"fe6bb87a-a0f3-494d-a4e3-caa2ff015c5b":{"time":"2026-09-14T10:03:07.366214400Z","hwid":"ZnYqQzZbQG5wM0VaABoHBXcCZWJwXTdKLQ==","key":"PVsZGhUFF0MmFhsGHxMSGAMf","status":0,"done":false},
+{
+  "fe6bb87a-a0f3-494d-a4e3-caa2ff015c5b": {
+    "time": "2026-09-14T10:03:07.366214400Z",
+    "hwid": "ZnYqQzZbQG5wM0VaABoHBXcCZWJwXTdKLQ==",
+    "key": "PVsZGhUFF0MmFhsGHxMSGAMf",
+    "status": 2,
+    "done": true
+  },
   "c3fcc63c-1e01-4901-9207-7ae77f09891d": {
     "time": "2026-09-14T10:02:01.119121600Z",
     "hwid": "ZnYqQzZbQG5wM0VaABoHBXcCZWJwXTdKLQ==",
