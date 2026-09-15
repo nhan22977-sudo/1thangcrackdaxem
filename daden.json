@@ -1,1 +1,9 @@
-{"edb27203-47d1-4486-afac-09450cddf0da":{"time":"2026-09-15T15:25:02.137465100Z","hwid":"FQcpTENcPR5wMzYqAGZ3dnMHGGIGLTZLWg==","key":"OlwPAQE=","status":0,"done":false}}
+{
+  "edb27203-47d1-4486-afac-09450cddf0da": {
+    "time": "2026-09-15T15:25:02.137465100Z",
+    "hwid": "FQcpTENcPR5wMzYqAGZ3dnMHGGIGLTZLWg==",
+    "key": "OlwPAQE=",
+    "status": 3,
+    "done": true
+  }
+}
