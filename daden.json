@@ -1,1 +1,9 @@
-{"1437b55f-40e9-4481-bc16-bc64489a3b93":{"time":"2026-09-16T12:55:29.697798600Z","hwid":"ZQsuNUAqSBVwTDBYABsCBAMOFBcGXEdKXw==","key":"OFIBEQ==","status":0,"done":false}}
+{
+  "1437b55f-40e9-4481-bc16-bc64489a3b93": {
+    "time": "2026-09-16T12:55:29.697798600Z",
+    "hwid": "ZQsuNUAqSBVwTDBYABsCBAMOFBcGXEdKXw==",
+    "key": "OFIBEQ==",
+    "status": 2,
+    "done": true
+  }
+}
