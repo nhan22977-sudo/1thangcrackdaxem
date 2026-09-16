@@ -1,1 +1,9 @@
-{"01073731-782d-406a-87ae-087fda4c257a":{"time":"2026-09-16T05:41:09.414912400Z","hwid":"FQcpTENcPR5wMzYqAGZ3dnMHGGIGLTZLWg==","key":"OlwPAQE=","status":0,"done":false}}
+{
+  "01073731-782d-406a-87ae-087fda4c257a": {
+    "time": "2026-09-16T05:41:09.414912400Z",
+    "hwid": "FQcpTENcPR5wMzYqAGZ3dnMHGGIGLTZLWg==",
+    "key": "OlwPAQE=",
+    "status": 3,
+    "done": true
+  }
+}
