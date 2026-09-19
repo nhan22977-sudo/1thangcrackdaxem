@@ -1,1 +1,9 @@
-{"efac36e1-4020-4627-a1e9-701cde7b4f6e":{"time":"2026-09-19T15:13:26.082912Z","hwid":"ZANVTUFdTR9xMEJfABUCcXYOGBMAXjFELQ==","key":"JlwCAC1bSB12","status":0,"done":false}}
+{
+  "efac36e1-4020-4627-a1e9-701cde7b4f6e": {
+    "time": "2026-09-19T15:13:26.082912Z",
+    "hwid": "ZANVTUFdTR9xMEJfABUCcXYOGBMAXjFELQ==",
+    "key": "JlwCAC1bSB12",
+    "status": 3,
+    "done": true
+  }
+}
