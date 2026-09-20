@@ -1,1 +1,9 @@
-{"352412bb-cad5-41dd-82c3-8669d071ad2c":{"time":"2026-09-20T02:55:12.552309600Z","hwid":"ZQsuNUAqSBVwTDBYABsCBAMOFBcGXEdKXw==","key":"PkYVERwdEUg0ARwdchYLBwIC","status":0,"done":false}}
+{
+  "352412bb-cad5-41dd-82c3-8669d071ad2c": {
+    "time": "2026-09-20T02:55:12.552309600Z",
+    "hwid": "ZQsuNUAqSBVwTDBYABsCBAMOFBcGXEdKXw==",
+    "key": "PkYVERwdEUg0ARwdchYLBwIC",
+    "status": 3,
+    "done": true
+  }
+}
