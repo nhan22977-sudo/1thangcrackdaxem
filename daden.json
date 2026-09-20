@@ -1,1 +1,9 @@
-{"cdf1c468-9169-4151-a2f4-53c4dd8a179d":{"time":"2026-09-20T12:50:42.300377Z","hwid":"ZANVTUFdTR9xMEJfABUCcXYOGBMAXjFELQ==","key":"JlwCAC1bSB12","status":0,"done":false}}
+{
+  "cdf1c468-9169-4151-a2f4-53c4dd8a179d": {
+    "time": "2026-09-20T12:50:42.300377Z",
+    "hwid": "ZANVTUFdTR9xMEJfABUCcXYOGBMAXjFELQ==",
+    "key": "JlwCAC1bSB12",
+    "status": 3,
+    "done": true
+  }
+}
