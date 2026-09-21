@@ -1,1 +1,9 @@
-{"07006bd1-a25e-4502-850e-81c730fe1928":{"time":"2026-09-21T14:08:09.094969400Z","hwid":"ZQsuNUAqSBVwTDBYABsCBAMOFBcGXEdKXw==","key":"PkYVERwdEUg0ARwdchYLBwIC","status":0,"done":false}}
+{
+  "07006bd1-a25e-4502-850e-81c730fe1928": {
+    "time": "2026-09-21T14:08:09.094969400Z",
+    "hwid": "ZQsuNUAqSBVwTDBYABsCBAMOFBcGXEdKXw==",
+    "key": "PkYVERwdEUg0ARwdchYLBwIC",
+    "status": 3,
+    "done": true
+  }
+}
