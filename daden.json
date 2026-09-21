@@ -1,1 +1,9 @@
-{"ae35afda-5603-455c-a94b-c9ba4d276048":{"time":"2026-09-21T07:07:40.958200800Z","hwid":"FHctNUdQOhVyQEEqAGBzcQECZRMHKTU2Lw==","key":"IlwBGAYaJx1y","status":0,"done":false}}
+{
+  "ae35afda-5603-455c-a94b-c9ba4d276048": {
+    "time": "2026-09-21T07:07:40.958200800Z",
+    "hwid": "FHctNUdQOhVyQEEqAGBzcQECZRMHKTU2Lw==",
+    "key": "IlwBGAYaJx1y",
+    "status": 3,
+    "done": true
+  }
+}
