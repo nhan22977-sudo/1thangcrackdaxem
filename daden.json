@@ -1,1 +1,9 @@
-{"2adacc11-947c-4f87-9025-afcdb6705399":{"time":"2026-09-21T15:23:00.149483900Z","hwid":"FHctNUdQOhVyQEEqAGBzcQECZRMHKTU2Lw==","key":"IlwBGAYaJx1yVVxRBA==","status":0,"done":false}}
+{
+  "2adacc11-947c-4f87-9025-afcdb6705399": {
+    "time": "2026-09-21T15:23:00.149483900Z",
+    "hwid": "FHctNUdQOhVyQEEqAGBzcQECZRMHKTU2Lw==",
+    "key": "IlwBGAYaJx1yVVxRBA==",
+    "status": 2,
+    "done": true
+  }
+}
