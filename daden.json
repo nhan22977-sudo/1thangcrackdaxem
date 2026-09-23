@@ -1,1 +1,9 @@
-{"35442ac5-6154-428a-aa1e-1caa13051fb3":{"time":"2026-09-23T12:03:21.155284Z","hwid":"Y3EoRjNbTBsEQkFZAGACcQUFYBJ2XEI2LQ==","key":"JFoDHBcFFEJwR0dIBRIb","status":0,"done":false}}
+{
+  "35442ac5-6154-428a-aa1e-1caa13051fb3": {
+    "time": "2026-09-23T12:03:21.155284Z",
+    "hwid": "Y3EoRjNbTBsEQkFZAGACcQUFYBJ2XEI2LQ==",
+    "key": "JFoDHBcFFEJwR0dIBRIb",
+    "status": 2,
+    "done": true
+  }
+}
