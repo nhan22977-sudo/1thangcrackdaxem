@@ -1,1 +1,9 @@
-{"c66e12b2-64e6-4ad1-828a-740380ec7233":{"time":"2026-09-23T07:42:19.405456Z","hwid":"FQcpTENcPR5wMzYqAGZ3dnMHGGIGLTZLWg==","key":"OlwPAQE=","status":0,"done":false}}
+{
+  "c66e12b2-64e6-4ad1-828a-740380ec7233": {
+    "time": "2026-09-23T07:42:19.405456Z",
+    "hwid": "FQcpTENcPR5wMzYqAGZ3dnMHGGIGLTZLWg==",
+    "key": "OlwPAQE=",
+    "status": 3,
+    "done": true
+  }
+}
