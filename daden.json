@@ -1,1 +1,9 @@
-{"570124db-ea83-407b-877d-f49a048aac59":{"time":"2026-09-23T00:14:24.077942900Z","hwid":"ZQsuNUAqSBVwTDBYABsCBAMOFBcGXEdKXw==","key":"PkYVERwdEUg0ARwdchYLBwIC","status":0,"done":false}}
+{
+  "570124db-ea83-407b-877d-f49a048aac59": {
+    "time": "2026-09-23T00:14:24.077942900Z",
+    "hwid": "ZQsuNUAqSBVwTDBYABsCBAMOFBcGXEdKXw==",
+    "key": "PkYVERwdEUg0ARwdchYLBwIC",
+    "status": 3,
+    "done": true
+  }
+}
