@@ -1,1 +1,9 @@
-{"7284214c-309b-44ab-9a67-ee6c3f3e108c":{"time":"2026-09-24T21:56:48.909511500Z","hwid":"EAVYRjFcSRQDM0BdABF2A3B1FGcAWUdLLA==","key":"IlsZGxwOSBlzRUM=","status":0,"done":false}}
+{
+  "7284214c-309b-44ab-9a67-ee6c3f3e108c": {
+    "time": "2026-09-24T21:56:48.909511500Z",
+    "hwid": "EAVYRjFcSRQDM0BdABF2A3B1FGcAWUdLLA==",
+    "key": "IlsZGxwOSBlzRUM=",
+    "status": 3,
+    "done": true
+  }
+}
