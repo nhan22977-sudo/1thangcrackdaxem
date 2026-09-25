@@ -1,1 +1,9 @@
-{"832c40f8-8170-47c8-9933-f28bc282b035":{"time":"2026-09-25T09:32:29.545397900Z","hwid":"FHctNUdQOhVyQEEqAGBzcQECZRMHKTU2Lw==","key":"IlwBGAYaJx1y","status":0,"done":false}}
+{
+  "832c40f8-8170-47c8-9933-f28bc282b035": {
+    "time": "2026-09-25T09:32:29.545397900Z",
+    "hwid": "FHctNUdQOhVyQEEqAGBzcQECZRMHKTU2Lw==",
+    "key": "IlwBGAYaJx1y",
+    "status": 3,
+    "done": true
+  }
+}
