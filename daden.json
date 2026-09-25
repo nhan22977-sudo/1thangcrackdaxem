@@ -1,1 +1,9 @@
-{"cd06acda-ae22-405c-835b-01abbff33076":{"time":"2026-09-25T14:34:19.335982100Z","hwid":"YXJeRUYqPB0HMzJQABpzcXZ3FRd2WjJGXg==","key":"OlwPBBFYSh51QEI=","status":0,"done":false}}
+{
+  "cd06acda-ae22-405c-835b-01abbff33076": {
+    "time": "2026-09-25T14:34:19.335982100Z",
+    "hwid": "YXJeRUYqPB0HMzJQABpzcXZ3FRd2WjJGXg==",
+    "key": "OlwPBBFYSh51QEI=",
+    "status": 3,
+    "done": true
+  }
+}
