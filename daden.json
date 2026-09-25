@@ -1,1 +1,9 @@
-{"27531b12-b690-4ecf-81fc-d062f87ecf26":{"time":"2026-09-25T12:48:08.267456900Z","hwid":"FQcpTENcPR5wMzYqAGZ3dnMHGGIGLTZLWg==","key":"OlwPAQE=","status":0,"done":false}}
+{
+  "27531b12-b690-4ecf-81fc-d062f87ecf26": {
+    "time": "2026-09-25T12:48:08.267456900Z",
+    "hwid": "FQcpTENcPR5wMzYqAGZ3dnMHGGIGLTZLWg==",
+    "key": "OlwPAQE=",
+    "status": 3,
+    "done": true
+  }
+}
