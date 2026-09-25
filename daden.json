@@ -1,1 +1,9 @@
-{"08521a8e-2933-474e-9bea-458197b42227":{"time":"2026-09-25T17:35:07.857010200Z","hwid":"ZHBcQkBRTWsEN0ZbAGYEBHAEFxMDWkBBWw==","key":"IVoAGBsIFUooEREHQxQD","status":0,"done":false}}
+{
+  "08521a8e-2933-474e-9bea-458197b42227": {
+    "time": "2026-09-25T17:35:07.857010200Z",
+    "hwid": "ZHBcQkBRTWsEN0ZbAGYEBHAEFxMDWkBBWw==",
+    "key": "IVoAGBsIFUooEREHQxQD",
+    "status": 3,
+    "done": true
+  }
+}
