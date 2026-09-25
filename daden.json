@@ -1,1 +1,9 @@
-{"5373eec1-fac3-4947-8b94-9733463e3b18":{"time":"2026-09-25T13:42:13.924586300Z","hwid":"FHctNUdQOhVyQEEqAGBzcQECZRMHKTU2Lw==","key":"NFIPHBkBER1zRUE=","status":0,"done":false}}
+{
+  "5373eec1-fac3-4947-8b94-9733463e3b18": {
+    "time": "2026-09-25T13:42:13.924586300Z",
+    "hwid": "FHctNUdQOhVyQEEqAGBzcQECZRMHKTU2Lw==",
+    "key": "NFIPHBkBER1zRUE=",
+    "status": 3,
+    "done": true
+  }
+}
