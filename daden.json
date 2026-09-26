@@ -1,1 +1,9 @@
-{"b8981966-6616-4de3-85ac-161f0a464d09":{"time":"2026-09-26T15:59:42.857811900Z","hwid":"FHctNUdQOhVyQEEqAGBzcQECZRMHKTU2Lw==","key":"NFIPHBkBER1zRUE=","status":0,"done":false}}
+{
+  "b8981966-6616-4de3-85ac-161f0a464d09": {
+    "time": "2026-09-26T15:59:42.857811900Z",
+    "hwid": "FHctNUdQOhVyQEEqAGBzcQECZRMHKTU2Lw==",
+    "key": "NFIPHBkBER1zRUE=",
+    "status": 3,
+    "done": true
+  }
+}
