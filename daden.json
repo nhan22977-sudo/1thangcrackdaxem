@@ -1,1 +1,9 @@
-{"3f66bf64-6797-4242-afb1-15c721c41895":{"time":"2026-09-27T02:36:20.321893300Z","hwid":"FQcpTENcPR5wMzYqAGZ3dnMHGGIGLTZLWg==","key":"OlwPAQE=","status":0,"done":false}}
+{
+  "3f66bf64-6797-4242-afb1-15c721c41895": {
+    "time": "2026-09-27T02:36:20.321893300Z",
+    "hwid": "FQcpTENcPR5wMzYqAGZ3dnMHGGIGLTZLWg==",
+    "key": "OlwPAQE=",
+    "status": 3,
+    "done": true
+  }
+}
