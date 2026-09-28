@@ -1,1 +1,9 @@
-{"c5939353-2483-4378-91ba-80715e521195":{"time":"2026-09-28T05:07:53.648320100Z","hwid":"EAVYRjFcSRQDM0BdABF2A3B1FGcAWUdLLA==","key":"IlsZGxwOSBlzRUM=","status":0,"done":false}}
+{
+  "c5939353-2483-4378-91ba-80715e521195": {
+    "time": "2026-09-28T05:07:53.648320100Z",
+    "hwid": "EAVYRjFcSRQDM0BdABF2A3B1FGcAWUdLLA==",
+    "key": "IlsZGxwOSBlzRUM=",
+    "status": 3,
+    "done": true
+  }
+}
