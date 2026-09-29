@@ -14,14 +14,5 @@
     "key": "eEcNGh4G",
     "status": 3,
     "done": true
-  },
-  "06b0e2e6-bb0f-4800-abc3-4318759f06ed": {
-    "time": "2026-09-29T11:47:07.292356287Z",
-    "hwid": "bgteQzReQGl0MEQrABMCAnEFZGUAXUYwUA==",
-    "key": "eEcNGh4G",
-    "status": 3,
-    "done": true,
-    "type": "hb",
-    "sig": "lYRw/JXAAkcjPlevmsU6i5oNutc5XoawGGXlFPrRzaxcHZ4XTcGu/ldcT/HibRDwcSNki4Abs549UcJdkbMUDg=="
   }
 }
