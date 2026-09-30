@@ -6,14 +6,5 @@
     "status": 3,
     "done": true,
     "sig": "nnlWGh9QmtjqlIyFJecK/D8Dorj5mF8G14UZ0PoiYkFUlzQHmJOmMSessHP5Q8MFgiFz3UYb6G6/qpUyHFHFBg=="
-  },
-  "15582b10-ff8a-426f-858b-9ed0a6d03d2f": {
-    "time": "2026-09-30T10:51:41.590323279Z",
-    "hwid": "ZAJZQ0dfSx0HQk0sAGACCAFyFGJwVEZLKw==",
-    "key": "eEcNGh4G",
-    "status": 3,
-    "done": true,
-    "type": "hb",
-    "sig": "IwRBHfonlcaNKBAurLetvcdgERfrtp9EbItgUVpHd559UQ2CgpKMWUZDFIc6kaKT676ezdNHQmC7KXIXZeLRAw=="
   }
 }
